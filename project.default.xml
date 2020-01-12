@@ -1,0 +1,9 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
