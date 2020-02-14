@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="javax.persistence.Column" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="D2Coding ligature" />
