@@ -1,5 +1,5 @@
 <application>
   <component name="RefactoringSettings">
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
   </component>
 </application>
